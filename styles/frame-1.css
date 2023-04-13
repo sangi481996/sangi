@@ -1,0 +1,252 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 59.5rem;
+}.frame-1-mZ2 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU {
+  margin: 0rem 17.5rem 0.6rem 0rem;
+  width: 102.5rem;
+  height: 123.4rem;
+  position: relative;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .intro-oGk {
+  width: 35rem;
+  height: 44.4rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 19.8rem;
+  filter: blur(12.5rem);
+  background-color: #5b3184;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .home-5zx {
+  width: 9.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 13.6rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .gradiant-QGY {
+  width: 102.5rem;
+  height: 92.6342rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .about-Lfz {
+  width: 9.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 23.1rem;
+  top: 13.6rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .skills-eRn {
+  width: 9.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 37rem;
+  top: 13.6rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .blog-DdJ {
+  width: 9.8rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 50.2rem;
+  top: 13.6rem;
+  background-color: #d9d9d9;
+  border-radius: 1.5rem;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .home-WMW {
+  width: 4.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 14.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2852273305;
+  letter-spacing: 0.135rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .about-8Nt {
+  width: 5.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 25.55rem;
+  top: 14.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2852273305;
+  letter-spacing: 0.135rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .gradiant-3-D9S {
+  width: 26rem;
+  height: 26.8rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 9.2rem;
+  filter: blur(27.5rem);
+  background-color: #e8a0bf;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .skills-LE4 {
+  width: 4.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 39.7rem;
+  top: 14.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2852273305;
+  letter-spacing: 0.135rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg {
+  width: 15.7rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 17.7rem;
+  top: 29.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2852272987;
+  letter-spacing: 0.18rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg-sub-0 {
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg-sub-1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2852272987;
+  letter-spacing: 0.18rem;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.7136363983;
+  letter-spacing: 0.18rem;
+  color: #f5f5f5;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg .hello-friends-im-sangeetha-studentdesignerprogrammer-2cg-sub-3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.7136363983;
+  letter-spacing: 0.18rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .gradiant-4-fb6 {
+  width: 51.6897rem;
+  height: 58.8723rem;
+  position: absolute;
+  left: 11.4103rem;
+  top: 10.7325rem;
+  filter: blur(25rem);
+  background-color: #eb0a6b;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .intro-image-yLt {
+  width: 21.3rem;
+  height: 24.5rem;
+  position: absolute;
+  left: 39.2rem;
+  top: 23.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .a-bit-about-me-student-at-crescent-institute-of-technology-tik {
+  width: 19.4rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 66.4rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2852273305;
+  letter-spacing: 0.135rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .gradiant-4-Y2c {
+  width: 55.6rem;
+  height: 54.4rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 39.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .ellipse-1-T9a {
+  width: 18.3rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 52.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-1-mZ2 .auto-group-jeja-1CU .blog-BLU {
+  width: 3.8rem;
+  height: 2rem;
+  position: absolute;
+  left: 52.95rem;
+  top: 14.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2852273305;
+  letter-spacing: 0.135rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-1-mZ2 .gradiant-2-GMv {
+  margin-bottom: 5.9261rem;
+  width: 68.7245rem;
+  height: 56.4739rem;
+  filter: blur(10rem);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
